@@ -1,5 +1,7 @@
 ### 👋 Olá, meu nome é João Gabriel, tenho 19 anos e sou um desenvolvedor Web Front-End e um futuro dev Web Full-Stack formado pela Kenzie Academy Brasil!
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nymujen&show_icons=true&theme=radical)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
