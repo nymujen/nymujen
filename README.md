@@ -1,4 +1,4 @@
-### 👋 Olá, meu nome é João Gabriel, tenho 19 anos e sou um desenvolvedor Web Front-End e um futuro dev Web Full-Stack formado pela Kenzie Academy Brasil!
+### 👋 Olá, meu nome é João Gabriel, tenho 21 anos e sou um desenvolvedor Web Full Stack!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nymujen&show_icons=true&theme=radical)
 
